@@ -1,0 +1,9 @@
+Convolution : Convolution is a general purpose filter effect for images.
+Median : 
+Median filtering is a nonlinear operation often used in image processing to reduce "salt and pepper" noise// reduire bruit.
+Gaussian : Gaussian Filter is used to blur the image
+Moyenne : 
+Seuillage : Le seuillage d'image est une technique de binarisation d'image1,
+ consistant à remplacer les niveaux de gris d'une image par un ensemble de 
+pixels prenant la valeur 255 (blanc) ou 0 (noir) selon que sa valeur
+ initiale est inférieure ou supérieure à une valeur définie comme seuil
